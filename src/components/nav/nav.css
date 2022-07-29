@@ -1,0 +1,23 @@
+.mainNavDiv {
+  border-bottom: 1px solid gray;
+}
+.navi {
+  align-items: center;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 1080px;
+}
+.navButtons {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1.3rem;
+  margin-right: 30px;
+  padding: 0;
+}
+.navButtons a {
+  color: rgb(88, 88, 88);
+  text-decoration: none;
+}

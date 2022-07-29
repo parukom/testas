@@ -1,0 +1,27 @@
+.mainRegisterDiv {
+  border: 1px solid rgba(219, 219, 219, 0.402);
+  box-shadow: 0 4px 5px rgba(255, 255, 255, 0.47);
+  height: auto;
+  margin: 50px auto;
+  width: 600px;
+  overflow: hidden;
+}
+.mainRegisterDiv h1 {
+  margin: 24px;
+}
+.mainRegisterDiv label {
+  margin: 24px;
+}
+.mainRegisterDiv input {
+  border: none;
+  margin: 10px 24px;
+  width: 550px;
+  height: 30px;
+}
+.mainRegisterDiv button {
+  border: none;
+  cursor: pointer;
+  margin: 24px 24px;
+  height: 25px;
+  width: 100px;
+}

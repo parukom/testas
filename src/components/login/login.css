@@ -1,0 +1,27 @@
+.mainLoginDiv {
+  border: 1px solid rgba(219, 219, 219, 0.402);
+  box-shadow: 0 4px 5px rgba(255, 255, 255, 0.47);
+  height: auto;
+  margin: 50px auto;
+  width: 600px;
+  overflow: hidden;
+}
+.mainLoginDiv h1 {
+  margin: 24px;
+}
+.mainLoginDiv label {
+  margin: 24px;
+}
+.mainLoginDiv input {
+  border: none;
+  margin: 10px 24px;
+  width: 550px;
+  height: 30px;
+}
+.mainLoginDiv button {
+  border: none;
+  cursor: pointer;
+  margin: 24px 24px;
+  height: 25px;
+  width: 100px;
+}
